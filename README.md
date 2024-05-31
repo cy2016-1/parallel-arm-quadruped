@@ -26,3 +26,8 @@ A、B分别为两个舵机输出轴心，它们相距距离为2a。足端坐标�
 ![输入图片说明](https://foruda.gitee.com/images/1717127497390548298/86aff585_10461025.png "屏幕截图")
 2.  注意舵机引脚分配：FR-前→A6，FR-后→A7;BR-前→B0,BR-后→B1;BL-前→B8,BL-后→B9;FL-前→B6,FL-后→B7
 
+#### 展示
+![输入图片说明](image.png)
+![输入图片说明](image.png)
+![输入图片说明](image.png)
+![输入图片说明](image.png)
